@@ -1,0 +1,24 @@
+---
+antora:
+  name: modules
+  dir: www
+  modules:
+    - name: "01-first-clue"
+      label: "First Clue"
+      solveButton: true
+    - name: "02-clue-step2"
+      label: "Clue Step2"
+      solveButton: true
+    - name: "03-clue-step3"
+      label: "Clue Step3"
+      solveButton: true
+    - name: "04-clue-step4"
+      label: "Clue Step4"
+      solveButton: true
+    - name: "05-final-message"
+      label: "Final Message"
+      solveButton: true
+
+tabs:
+  - name: ">_ terminal"
+    url: /wetty

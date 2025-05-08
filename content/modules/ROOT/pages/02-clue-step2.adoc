@@ -1,0 +1,18 @@
+____
+Congratulations on completing the first step, your first flag code is:
+`+m9XAhvBC+`
+____
+
+In case you have forgotten, this is the last bit of the clue you
+recieved from Nate in /var/log/messages:
+
+[source,nocopy]
+----
+... the next clue is stored in a gpg encrypted file
+in my home directory.  You will have to be me to
+unencrypt it.  My passphrase is:
+Super733t
+
+I used --pinentry-mode=loopback when encrypting
+it, you might need to use it too.
+----

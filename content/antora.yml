@@ -1,0 +1,9 @@
+---
+name: modules
+version: master
+
+asciidoc:
+  attributes:
+    lab_name: "RHEL Pixel Hunter 1"
+    release-version: master
+    page-pagination: true
